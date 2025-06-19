@@ -1,17 +1,17 @@
 # Plantilla de Requisitos del Proyecto
 
 ## 1. Nombre del Proyecto  
-_¿Cuál es el título de tu proyecto?_
+_FLORECER
 
 ---
 
 ## 2. Miembros del Equipo  
-_Enumera todos los colaboradores que trabajan en el proyecto._
+_Alejandra Aponte, Genesis Cordero, Ana Maria Arenas Pulgarin,Nayarith Alejandra Giraldo Sanchez
 
 ---
 
 ## 3. Descripción General del Proyecto  
-_Una breve descripción (2-3 frases) que explique lo que hará tu aplicación o proyecto._
+_
 
 Nuestra aplicación ayuda a clientes de restaurantes como Jane a encontrar, pedir y volver a pedir sus comidas favoritas rápidamente. Al proporcionar un panel personalizado, historial de pedidos y facilidad para volver a pedir, nuestro objetivo es agilizar la experiencia gastronómica y aumentar la retención de clientes.
 <small>(Solo ejemplo; reemplaza con la descripción de tu propio proyecto.)</small>
