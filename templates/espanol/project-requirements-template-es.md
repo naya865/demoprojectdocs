@@ -1,20 +1,19 @@
 # Plantilla de Requisitos del Proyecto
 
 ## 1. Nombre del Proyecto  
-_FLORECER
+_¿Cuál es el título de tu proyecto?_
 
 ---
 
 ## 2. Miembros del Equipo  
-_Alejandra Aponte, Genesis Cordero, Ana Maria Arenas Pulgarin,Nayarith Alejandra Giraldo Sanchez
+_Enumera todos los colaboradores que trabajan en el proyecto._
 
 ---
 
 ## 3. Descripción General del Proyecto  
-_
+_Una breve descripción (2-3 frases) que explique lo que hará tu aplicación o proyecto._
 
-Nuestra aplicación ayuda a clientes de restaurantes como Jane a encontrar, pedir y volver a pedir sus comidas favoritas rápidamente. Al proporcionar un panel personalizado, historial de pedidos y facilidad para volver a pedir, nuestro objetivo es agilizar la experiencia gastronómica y aumentar la retención de clientes.
-<small>(Solo ejemplo; reemplaza con la descripción de tu propio proyecto.)</small>
+Nuestra plataforma ofrece un espacio dedicado al cuidado personal, donde los usuarios pueden encontrar recetas, consejos y rutinas personalizadas para mejorar su bienestar. Además, facilitamos la compra de productos recomendados a través de un sistema de intermediación, conectando a los usuarios con proveedores confiables. De esta manera, brindamos una experiencia integral que combina información útil y acceso sencillo a productos de calidad, todo en un solo lugar.
 
 ---
 
@@ -40,7 +39,11 @@ _¿Cómo sabrás si el proyecto es exitoso?_
 
 ## 8. Cronograma / Hitos  
 _Describe aproximadamente las fases planificadas del trabajo. Ejemplo:_  
-- Semana 1: Configuración y Autenticación  
-- Semana 2: Características Principales
+- Semana 1: Investigación y definición de requisitos
+- Semana 2: Diseño de la interfaz y experiencia de usuario
+- Semana 3: Desarrollo de la funcionalidad de recetas y rutinas personalizadas
+- Semana 4: Integración del sistema de intermediación para productos
+- Semana 5: Pruebas y ajustes finales
+- Semana 6: Lanzamiento y retroalimentación de usuarios
 
 ---
